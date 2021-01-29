@@ -1,8 +1,5 @@
 Ligne
 ligne2
-<<<<<<< HEAD
 ligne 3
 ligne 4
-=======
-Ligne 3
->>>>>>> a3d709e7a48e53a8b1640fb323ed9f8587616883
+
